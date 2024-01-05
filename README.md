@@ -1,3 +1,14 @@
+![image](https://github.com/coderkhushal/quizify-dom-quiz-react/assets/137866759/32693a25-b0f5-48a1-aa0e-f6b92352e6af)
+
+![image](https://github.com/coderkhushal/quizify-dom-quiz-react/assets/137866759/3e43f2ca-059d-4741-bc47-1c581164d3a7)
+
+![image](https://github.com/coderkhushal/quizify-dom-quiz-react/assets/137866759/15a9c2c7-feec-47c2-9a3a-ff5717b30a41)
+
+![image](https://github.com/coderkhushal/quizify-dom-quiz-react/assets/137866759/d9ac500b-4efe-4d62-a394-7d620a7a46d4)
+
+![image](https://github.com/coderkhushal/quizify-dom-quiz-react/assets/137866759/326114c4-f75b-4ad2-9e94-75d53dc0c193)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
