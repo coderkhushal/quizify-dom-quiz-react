@@ -113,7 +113,7 @@ const Quizstate= (props)=>{
     const handlesubmit = (e) => {
 
       if (e.target.id === questions[currentques].correctOption) {
-
+          e.target.style.backgroundColor="green"
           toast.success("Correct ans",{
               position: toast.POSITION.TOP_CENTER,
               autoClose: 50,
@@ -121,6 +121,7 @@ const Quizstate= (props)=>{
           setscore(score + 1)
       }
       else{
+        e.target.style.backgroundColor="red"
           toast.error('Incorrect ans',{
               position: toast.POSITION.TOP_CENTER,
               autoClose: 50,
@@ -129,7 +130,8 @@ const Quizstate= (props)=>{
       setuserans([...userans,questions[currentques].options[e.target.id]])
       setTimeout(() => {
           setcurrentques(currentques + 1)
-      }, 200);
+          e.target.style.backgroundColor="rgb(17, 17, 147)"
+      }, 400);
   }
     const [score, setscore]= useState(0)
     return(
