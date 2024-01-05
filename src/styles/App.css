@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Comfortaa', sans-serif;
+
+}
+body{
+  background-color: black;
+  padding: 20px;
+  color: bisque;
+}
+.primary-h{
+  font-size: xx-large;
+}
+.secondary-h{
+  font-size: x-large;
+}
